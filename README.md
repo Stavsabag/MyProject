@@ -10,16 +10,16 @@ By combining data collection, preprocessing, and machine learning classification
 
 Key Features:
 
-Data collection from the Twitter API
-Data preprocessing and feature extraction
-Application of machine learning techniques for classification
-Evaluation and comparison of classification models
-Insights and predictions for various problem categories
-Requirements:
+Data collection from the Twitter API.
+Data preprocessing and feature extraction.
+Application of machine learning techniques for classification.
+Evaluation and comparison of classification models.
+Insights and predictions for various problem categories.
 
-Twitter API credentials
-Python programming language
-Libraries: [List of required libraries]
+Requirements:
+Twitter API credentials.
+Python programming language.
+
 Usage:
 
 Set up Twitter API credentials.
@@ -32,7 +32,7 @@ Contributing:
 Contributions to the project are welcome. Feel free to open issues, submit pull requests, or suggest improvements to enhance the functionality and performance of the project.
 
 License:
-This project is licensed under [license name]. Please refer to the LICENSE file for more information.
+This project is licensed under Dr. Aviad Elyashar
 
 Acknowledgments:
 We would like to express our gratitude to the developers and contributors of the open-source libraries and frameworks used in this project. Their work greatly facilitated the implementation and success of this project.
